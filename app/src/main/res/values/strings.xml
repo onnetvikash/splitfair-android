@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SplitFair</string>
+    <string name="subtitle">Split the bill, tip included. No sign-up, no ads.</string>
+    <string name="bill_hint">Bill amount</string>
+    <string name="tip_label">Tip: %1$d%%</string>
+    <string name="people_label">People</string>
+    <string name="people_minus_desc">Remove one person</string>
+    <string name="people_plus_desc">Add one person</string>
+    <string name="round_up">Round each share up to a whole number</string>
+    <string name="tip_amount">Tip</string>
+    <string name="total">Total with tip</string>
+    <string name="each_pays">Each person pays</string>
+    <string name="extra_note">Rounding adds %1$s extra to the tip</string>
+    <string name="share">Share split</string>
+    <string name="share_title">Share this split</string>
+    <string name="summary">Bill %1$s + tip %2$s (%3$d%%) = %4$s\nSplit %5$d ways: %6$s each\nCalculated with SplitFair</string>
+</resources>
